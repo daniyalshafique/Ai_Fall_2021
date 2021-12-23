@@ -1,7 +1,7 @@
 
 # AI-108168 Fall 2021:Course Repository #
 
-### PROJECT MEMBERS ###
+## PROJECT MEMBERS ##
 StdID | Name
 ------------ | -------------
 **64165** | **Muhammad Areeb**
