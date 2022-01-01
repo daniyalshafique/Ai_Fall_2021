@@ -10,7 +10,7 @@ StdID | Name
 
 
 ## Kaggle Score ##
-![image][https://user-images.githubusercontent.com/74369888/146022167-b316e3bc-3ed0-4e45-9463-2997d17d15b4.png]
+![image](https://user-images.githubusercontent.com/74369888/146022167-b316e3bc-3ed0-4e45-9463-2997d17d15b4.png)
 
 ## Description ##
 This repository contains Assignment 3 Nov21-Kaggle Competition and project submitted to AI course offered in Fall 2021 at Pafkiet.
