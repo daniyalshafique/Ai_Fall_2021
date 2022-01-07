@@ -19,5 +19,5 @@ This repository contains Project Jan2022-Kaggle Competition and project submitte
 ## REFERENCE ##
 we use some youtube videos and take freinds help 
 ## PERFORMABCE ##
-we use different models accuracy is arround almost same  51.2% and accracy diffent test is arround 0.124 and 0.156 
+we use different models accuracy is arround almost same  51.2% and accuracy diffent test is arround 0.124 and 0.156 
 
