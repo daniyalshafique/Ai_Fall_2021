@@ -22,7 +22,7 @@ we use some youtube videos and take freinds help
 we use different models accuracy is arround almost same  51.2% and accuracy diffent test is arround 0.124 and 0.156 
  
  
- By Daniyal Shafique (Readme.md)
+ By  MUHAMMAD AREEB AND Daniyal Shafique (Readme.md)
 
 ## Description ##
 We approached our final project by some websites, youtube videos and friend's helps.
@@ -32,7 +32,4 @@ The problems i faced first thing the project we got in our course it is very har
 and it is not possible to complete who is not good in coding.
 The steps are very hard and complicated to understand.
 But we tried by help of friends , seniors and internet.
-## REFERENCE ##
-we have taken help form websites and youtube.
-## PERFORMANCE ##
-We used different models accuracy is 51.2% and different test accuracy is between 0.124 to 0.156
+
