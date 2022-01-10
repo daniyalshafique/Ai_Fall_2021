@@ -7,7 +7,7 @@
 StdID | Name
 ------------ | -------------
 **64165** | **Muhammad Areeb**
-**61428** | **Danial Shafique**
+**61428** | **Daniyal Shafique**
 
 
 ## Kaggle Score ##
